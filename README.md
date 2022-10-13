@@ -3,7 +3,7 @@
 This Portfolio was created just with HTML and CSS
 
 Git hub Address
-[1]https://github.com/Bryan3D/Portfolio-Bryan-Quero
+[link text itself]https://github.com/Bryan3D/Portfolio-Bryan-Quero
 
 Portfolio Page
 
