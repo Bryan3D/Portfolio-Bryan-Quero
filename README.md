@@ -2,6 +2,9 @@
 
 This Portfolio was created just with HTML and CSS
 
+``AS AN employer
+  I WANT to view a potential employee's deployed portfolio of work samples``
+
 Git hub Address
 [link text itself]https://github.com/Bryan3D/Portfolio-Bryan-Quero
 
